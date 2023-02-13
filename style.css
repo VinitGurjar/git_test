@@ -1,0 +1,18 @@
+.alert-text {
+    color: red;
+  }
+
+  /* id selector */
+
+#title {
+    background-color: red;
+  }
+
+  /* Chaining 
+  selector*/
+.subsection.header {
+    color: red;
+  }
+.subsection.preview {
+    color: blue;
+  }
